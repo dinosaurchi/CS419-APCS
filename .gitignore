@@ -1,0 +1,5 @@
+*.pdf
+*.txt
+**/data/
+/data/
+/Slides/
